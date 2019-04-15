@@ -2,4 +2,4 @@
 `tensorflow_addons` is need
 
 ## to do
-- [] layers._get_normlayer change default params like initializer
+- [ ] layers._get_normlayer change default params like initializer
